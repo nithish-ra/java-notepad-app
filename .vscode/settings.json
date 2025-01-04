@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\sivar\\SceneBuilder\\app\\scenebuilder-23.0.1-all.jar"
+    ]
+}
